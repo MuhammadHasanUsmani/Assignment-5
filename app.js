@@ -249,3 +249,47 @@
 // var result = name + greet
 // alert(result)
 
+
+// Assignment 9-10
+
+// Task 1
+// var city = prompt("enter the city name")
+// if(city === "karachi"){
+//     alert("welcome to city of lights")
+// }
+// else if (city === "lahore"){
+//     alert("welcome to city of meals")
+// }
+// else if (city === "islamabad"){
+//     alert("welcome to capital of pakistan")
+// }
+// else{
+//     alert("please enter the correct city name")
+// }
+
+// Task 2
+// var gender = prompt("enter the your gender")
+// if(gender === "male"){
+//     alert("Good Morning Sir")
+// }
+// else if (gender === "female"){
+//     alert("Good Morning Ma'am")
+// }
+// else{
+//     alert("please enter the correct gender")
+// }
+
+// Task 3
+// var light = prompt("enter the traffic signal light,s color" , "like red, yellow or green")
+// if(light === "red"){
+//     alert("Must Stop")
+// }
+// else if (light === "yellow"){
+//     alert("Ready to Move")
+// }
+// else if (light === "green"){
+//     alert("Move now")
+// }
+// else{
+//     alert("please enter the correct color")
+// }
